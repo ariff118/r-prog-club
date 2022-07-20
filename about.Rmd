@@ -1,0 +1,109 @@
+---
+title: "Activities"
+author: 
+  - name: "Kamarul Ariffin Mansor"
+    url: https://my.linkedin.com/in/kamarul-ariffin-mansor-254b9ba7/
+output: 
+  distill::distill_article:
+    self_contained: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+In this page you will be able to get all the information on the past events that has been done.  
+
+## Seminar 1  
+
+Date: 16 September 2022  
+Time: 12GMT  
+Platform: ZOOM  
+
+### Synopsis  
+
+> Today session covers the basic of R features:  
+- installation of R and R Studio (for mor info, go to this link [Getting Started with R](https://learnr-examples.shinyapps.io/ex-setup-r/))  
+- mathematical operation using R  
+- reading .csv file into R  
+- saving data into your system  
+- creating and removing object variables  
+- dataframes  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IURWkDCEjCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+
+### Materials:  
+[Seminar 1 Notes](R_Eng_2020/IntroToR1.pdf)  
+[R Script](R_Eng_2020/firstseminar.R)  
+
+***
+
+## Seminar 2  
+
+Date: 17 September 2022  
+Time: 12GMT  
+Platform: ZOOM  
+
+### Synopsis  
+
+> Today session covers:  
+- Tidyverse package  
+- Introduction to GGPLOT package  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td0FvniPbGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+### Materials  
+[Seminar 2 Notes](R_Eng_2020/IntroToR2.pdf)  
+[R Script](R_Eng_2020/secondseminar.R)  
+
+## Seminar 3  
+
+Date: 18 September 2022  
+Time: 12GMT  
+Platform: ZOOM  
+
+### Synopsis  
+
+> data visualization using R. It will help you to learn how to make interactive plots, graphs and figures in R
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LbwHyryZzVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+### Materials  
+[R Script](R_Eng_2020/thirdseminar.R)  
+
+## Seminar 4  
+
+Date: 19 September 2022  
+Time: 12GMT  
+Platform: ZOOM  
+
+### Synopsis  
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iAYGN2Q-t2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+### Materials  
+[R Script](R_Eng_2020/seminar4.R)  
+
+## Seminar 5  
+
+Date: 21 September 2022  
+Time: 12GMT  
+Platform: ZOOM  
+
+Hi Codders,  
+Our next session ( workshop no. 5) will be on thursday . It will be at 12 pm GMT . We will continue with data visualization  
+[Zoom link](https://ut-ee.zoom.us/j/92044325760?pwd=Y3NVQk5QbHh6T3M2enZpY3Y5YllqQT09)
+
+### Synopsis  
+
+> So my plan is to cover the following topics - one more lecture of ggplot2, then some theory - writing functions in R; lists in R, for cycle very very briefly. Then dplyr - main verbs of data manipulation. Joining data. Data on long and wide format. Then some RMarkdown. Then you will be ready to be sent into the wild world :)  
+
+
+## Contributors {.appendix}
+
+Indrek Seppo\
+Visiting Lecturer\
+University of Tartu
+

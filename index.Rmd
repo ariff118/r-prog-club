@@ -1,0 +1,33 @@
+---
+title: "R Programming Group"
+description: |
+  Welcome to the website. I hope you enjoy and love R!
+output: 
+  distill::distill_article:
+    self_contained: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+The R Programming WhatsApp Group was created to bring together the R coders lovers who wants to start learning R and become an expert in R. The main purpose of this club is to share knowledge and expertise from the expert mentors to the members of this group. Series of online session will be conducted by our mentors on a specific topics from the basic of R to a more advance technique in R. It is our goals that everyone in this group, one day will be an expert and in return be a mentor to the newcomers in R.  
+
+This group is growing rapidly since it first session on September 15, 2022. As of 19 September 2022, we already have 242 members.  
+
+[Join R Programming Club WhatsApp Group](https://chat.whatsapp.com/GQe2s2nLI8EALagG2LJcxO)  
+
+Special thank to our mentors:  
+
+1. Indrek Seppo, Visiting Lecturer, University of Tartu. [CV](R_Eng_2020/CV_IndrekSeppo_eng.pdf)  
+2. Elijah Appiah from Ghana  
+
+**Reference**  
+[Data Science Cheat Sheets](assets/data-visualization-cheat-sheet.pdf)  
+<a href="https://r4ds.had.co.nz/index.html" target="_blank">R for Data Science</a>  
+[R for Everyone](assets/R for Everyone.pdf)  
+<a href="https://socviz.co/" target="_blank">Data Visualization</a>  
