@@ -1,17 +1,25 @@
-name: "R Prog Group"
-title: "R Programming Group"
+name: "Love is in the rrR..."
+title: "Love is in the rrR..."
 description: |
-  R Programming Group
+  Love is in the rrR... Group
 output_dir: "_site"
 navbar:
+  logo: assets/images/banner.png
   right:
-    - text: "About R Programming Group"
+    - text: "Home"
       href: index.html
-    - text: "Activities"
-      href: about.html
+    - text: "People"
+      href: people.html
+    - text: "Recordings"
+      href: records.html
+    - text: "Resources"
+      href: resources.html
+    - text: "Packages"
+      href: packages.html
 output: 
   distill::distill_article:
     toc: true
     toc_depth: 3
     number_sections: true
     self_contained: true
+    

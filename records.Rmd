@@ -1,0 +1,93 @@
+---
+title: "Recordings"
+output: 
+  distill::distill_article:
+    self_contained: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+In this page you will be able to get all the information on the past events that has been done.  
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IURWkDCEjCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+<aside>
+**Seminar 1**  
+Date: 15 July 2022  
+Time: 12GMT  
+Platform: ZOOM  
+</aside>  
+
+***
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td0FvniPbGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+<aside>
+**Seminar 2**  
+Date: 17 September 2022  
+Time: 12GMT  
+Platform: ZOOM  
+</aside>
+
+***
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LbwHyryZzVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+<aside>
+**Seminar 3**  
+Date: 18 September 2022  
+Time: 12GMT  
+Platform: ZOOM  
+</aside>
+
+***
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iAYGN2Q-t2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+<aside>
+**Seminar 4**  
+Date: 19 September 2022  
+Time: 12GMT  
+Platform: ZOOM  
+</aside>  
+
+***
+
+Video will be uploaded after the the session.  
+
+<aside>  
+**Seminar 5**  
+Date: 21 September 2022  
+Time: 12GMT  
+Platform: ZOOM  
+
+Hi Codders,  
+Our next session ( workshop no. 5) will be on thursday . It will be at 12 pm GMT . We will continue with data visualization  
+[Zoom link](https://ut-ee.zoom.us/j/92044325760?pwd=Y3NVQk5QbHh6T3M2enZpY3Y5YllqQT09)
+</aside>  
+
+## Webmasters {.appendix}
+
+:::::: {style="display: flex; "}
+
+::: {.column width="25%"}
+
+![](assets/images/profile.png){width="80%"}
+
+:::
+
+::: {.column width="75%}
+
+#### KAMARUL ARIFFIN MANSOR\
+Designation: Senior Lecturer (Applied Statistics)\
+Affiliation: MARA University of Technology, Malaysia\
+Email: kamarul.ariffin.167118@gmail.com\
+[Website](https://ariff118.github.io/kamansor.github.io/)
+
+:::
+
+::::::
+

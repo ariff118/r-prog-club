@@ -1,5 +1,5 @@
 ---
-title: "R Programming Group"
+title: "Love is in the rrR..."
 description: |
   Welcome to the website. I hope you enjoy and love R!
 output: 
@@ -9,25 +9,68 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+library(knitr)
 
 # Learn more about creating websites with Distill at:
 # https://rstudio.github.io/distill/website.html
 
 ```
 
-The R Programming WhatsApp Group was created to bring together the R coders lovers who wants to start learning R and become an expert in R. The main purpose of this club is to share knowledge and expertise from the expert mentors to the members of this group. Series of online session will be conducted by our mentors on a specific topics from the basic of R to a more advance technique in R. It is our goals that everyone in this group, one day will be an expert and in return be a mentor to the newcomers in R.  
+<!-- ```{css} -->
+<!-- .article-banner { -->
+<!--   width: auto; -->
+<!--   height: auto; -->
+<!--   border: 0; -->
+<!-- } -->
 
-This group is growing rapidly since it first session on September 15, 2022. As of 19 September 2022, we already have 242 members.  
+<!-- img[src="assets/images/banner.png"] { -->
+<!--   border: 0; -->
+<!--   padding: 0; -->
+<!--   width: 100%; -->
+<!--   margin: 100px 25px 0px 0px; -->
+<!-- } -->
+<!-- ``` -->
 
-<a href="https://chat.whatsapp.com/GQe2s2nLI8EALagG2LJcxO" target="_blank">Join R Programming Club WhatsApp Group</a>  
+<!-- ```{r, layout="l-screen-inset"} -->
+<!-- include_graphics("assets/images/banner.png") -->
+<!-- ``` -->
 
-Special thank to our mentors:  
+![](assets/images/banner.png)
 
-1. Indrek Seppo, Visiting Lecturer, University of Tartu. [CV](R_Eng_2020/CV_IndrekSeppo_eng.pdf)  
-2. Elijah Appiah from Ghana  
+Love is in the rrrR...  
 
-**Reference**  
-[Data Science Cheat Sheets](assets/data-visualization-cheat-sheet.pdf)  
-<a href="https://r4ds.had.co.nz/index.html" target="_blank">R for Data Science</a>  
-[R for Everyone](assets/R for Everyone.pdf)  
-<a href="https://socviz.co/" target="_blank">Data Visualization</a>  
+The idea until the establishment of this group was initiated, conceptualized and executed by Ms Ishveen Kaur. She created a platform to bring together all the leaders and mentors together to create this global workshop. She coordinate between mentors and learners. She take lead  in designing schedule of workshop, coordinating between learners and mentors created outline and responsible for sending information regarding workshops to social platforms on Gmail, WhatApp, and Facebook.  
+
+`Learn is in the rrrR...` was created to bring together the R coders lovers who wants to start learning R and become an expert in R. The main purpose of this club is to share knowledge and expertise from the expert mentors to the members of this group. Series of online session will be conducted by our mentors on a specific topics from the basic of R to a more advance technique in R. It is our goals that everyone in this group, one day will be an expert and in return be a mentor to the newcomers in R.  
+
+This group is growing rapidly since it first session on July 15, 2022. As of 19 July 2022, we already have 242 members and the numbers are growing.  
+
+To join the WhatsApp group chat, just click here -->
+<a href="https://chat.whatsapp.com/GQe2s2nLI8EALagG2LJcxO" target="_blank">Join WhatsApp Group Chat</a>  
+
+
+
+
+
+## Webmasters {.appendix}
+
+:::::: {style="display: flex; "}
+
+::: {.column width="25%"}
+
+![](assets/images/profile.png){width="80%"}
+
+:::
+
+::: {.column width="75%}
+
+#### KAMARUL ARIFFIN MANSOR\
+Designation: Senior Lecturer (Applied Statistics)\
+Affiliation: MARA University of Technology, Malaysia\
+Email: kamarul.ariffin.167118@gmail.com\
+[Website](https://ariff118.github.io/kamansor.github.io/)
+
+:::
+
+::::::
+
