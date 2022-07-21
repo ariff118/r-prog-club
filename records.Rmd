@@ -19,6 +19,7 @@ In this page you will be able to get all the information on the past events that
 Date: 15 July 2022  
 Time: 12GMT  
 Platform: ZOOM  
+[Download R script](R_eng_2020/firstseminar.R)
 </aside>  
 
 ***
@@ -30,6 +31,7 @@ Platform: ZOOM
 Date: 17 September 2022  
 Time: 12GMT  
 Platform: ZOOM  
+[Download R script](R_eng_2020/secondseminar.R)
 </aside>
 
 ***
@@ -41,6 +43,7 @@ Platform: ZOOM
 Date: 18 September 2022  
 Time: 12GMT  
 Platform: ZOOM  
+[Download R script](R_eng_2020/thirdseminar.R)
 </aside>
 
 ***
@@ -52,6 +55,7 @@ Platform: ZOOM
 Date: 19 September 2022  
 Time: 12GMT  
 Platform: ZOOM  
+[Download R script](R_eng_202seminar4.R)
 </aside>  
 
 ***
