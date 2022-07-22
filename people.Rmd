@@ -81,7 +81,7 @@ MS (University of Texas at RGV)
 
 ::: {.column width="25%"}
 
-![](assets/images/female.png){width="80%"}
+![](assets/images/male.png){width="80%"}
 
 :::
 
