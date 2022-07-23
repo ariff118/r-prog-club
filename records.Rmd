@@ -60,7 +60,7 @@ Platform: ZOOM
 
 ***
 
-Video will be uploaded after the the session.  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KCbhVSFPG2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 <aside>  
 **Seminar 5**  
@@ -70,12 +70,14 @@ Platform: ZOOM
 
 Hi Codders,  
 Our next session ( workshop no. 5) will be on thursday . It will be at 12 pm GMT . We will continue with data visualization  
-[Zoom link](https://ut-ee.zoom.us/j/92044325760?pwd=Y3NVQk5QbHh6T3M2enZpY3Y5YllqQT09)
+[Zoom link](https://ut-ee.zoom.us/j/92044325760?pwd=Y3NVQk5QbHh6T3M2enZpY3Y5YllqQT09)\
+
+[Download Homework](R_eng_2020/homework1_Liis_A20783.pdf)\
 </aside>  
 
 ***
 
-Video will be uploaded after the the session.  
+Video will be uploaded after the the session.\
 
 <aside>  
 **Seminar 6**  
@@ -84,11 +86,21 @@ Time: 12GMT\
 Platform: ZOOM\
 Mentor: Elijah Appiah\
 
+Join Zoom Meeting\
+[https://osu.zoom.us/j/93476048620?pwd=T29wSnJ0L2F0REJCTU1WcUt0bGZVUT09](https://osu.zoom.us/j/93476048620?pwd=T29wSnJ0L2F0REJCTU1WcUt0bGZVUT09)
+
+Meeting ID: 934 7604 8620\
+Password: 845326\
+
 There is going to be a lesson on the Principles and Practice of Data Visualization with R.\
 
 It will be a 1 hour and 30 minutes lesson that will cover the various visualization techniques you need to master to become a Data Visualization expert. This will supplement the lectures you've had so far and go into details at least.\
 
-See you soon!
+See you soon!\
+
+Download Seminar Materials\
+[Excel Data](assets/wage.xlsx)\
+[Wage 1 Dataset Description](assets/wage1 dataset description.pdf)\
 </aside>  
 
 ## Webmasters {.appendix}
